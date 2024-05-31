@@ -1,8 +1,9 @@
 {
-    "name": "Multiplayer: Galaxy Star Attack",
+    "name": " Multiplayer: Galaxy Star Attack - Copy",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "multiplayer": "*"
     },
     "files": [
         "main.blocks",

@@ -35,7 +35,7 @@ info.player4.onLifeZero(function () {
         game.gameOver(true)
     } else {
         game.showLongText("Player 4 is out!", DialogLayout.Bottom)
-        sprites.destroy(Player_3, effects.fire, 500)
+        sprites.destroy(Player_4, effects.fire, 500)
     }
 })
 info.player3.onLifeZero(function () {

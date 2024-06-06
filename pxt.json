@@ -1,5 +1,5 @@
 {
-    "name": " Multiplayer: Galaxy Star Attack - Copy",
+    "name": " Multiplayer: Galaxy Star Attack",
     "description": "",
     "dependencies": {
         "device": "*",
@@ -15,11 +15,29 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.12.51",
+        "target": "1.12.53",
         "targetId": "arcade"
     },
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#FFFFFF",
+        "#FF2121",
+        "#669D34",
+        "#FF8135",
+        "#FFF609",
+        "#249CA3",
+        "#78DC52",
+        "#003FAD",
+        "#87F2FF",
+        "#8E2EC4",
+        "#A4839F",
+        "#5C406c",
+        "#E5CDC4",
+        "#91463d",
+        "#000000"
+    ]
 }

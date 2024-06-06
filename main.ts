@@ -316,6 +316,6 @@ game.onUpdateInterval(500, function () {
         . . . c c c c b b b b b c c . . 
         . . . . . . . . c b b c . . . . 
         `, SpriteKind.Enemy)
-    Asteroid.setVelocity(-50, 0)
-    Asteroid.setPosition(160, randint(0, 120))
+    Asteroid.setVelocity(0, 50)
+    Asteroid.setPosition(randint(0, 160), 0)
 })
